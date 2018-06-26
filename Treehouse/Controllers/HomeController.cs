@@ -22,11 +22,11 @@ namespace Treehouse.Controllers
 
             return View();
         }
-        
+
         public ActionResult Contact()
         {
             var shippingHelper = new ShippingHelper();
-            
+
             ViewBag.Message = "Your contact page.";
 
             List<string> myStrings = new List<string>();

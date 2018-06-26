@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace Treehouse.Helper
+﻿namespace Treehouse.Helper
 {
     public class ServiceHelper
     {

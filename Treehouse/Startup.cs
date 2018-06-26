@@ -2,6 +2,7 @@
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(Treehouse.Startup))]
+
 namespace Treehouse
 {
     public partial class Startup
